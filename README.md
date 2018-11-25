@@ -1,0 +1,2 @@
+# VueMusicPlayerAssert
+VUE实现仿音乐播放器静态资源assert
